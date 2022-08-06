@@ -1,0 +1,287 @@
+* {
+  margin: 0;
+  font-family:  'Open Sans', sans-serif;
+}
+
+body {
+  width: 21cm;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body h1 {
+  text-transform: uppercase;
+}
+
+/* header css */
+header {
+  background-color: #132E57;
+}
+header img {
+  width: 25%;
+  height: 50%;
+  border-radius: 50%;
+  float: left;
+  padding: 0em 1em 1em 1em;
+}
+
+header h1, h2, h3{
+  color: white;
+  text-align: center;
+}
+
+header .header-text {
+  padding: 1.5em 1em 1em 1em;
+}
+
+header h1 {
+  font-size: 32px;
+  padding-bottom: 0.5em;
+}
+
+header h2 {
+  font-size: 16px;
+  padding-bottom: 0.5em;
+}
+
+header h3 {
+  font-size: 14px;
+  padding-bottom: 2em;
+}
+
+/* personal profile css */
+.personal {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+}
+
+.personal h1 {
+  border-bottom: solid 2px #132E57;
+}
+
+.personal p {
+  padding-top: 1em;
+}
+
+/* Education css */
+.education {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+  line-height: 1.75em;
+}
+
+.education h1{
+  border-bottom: solid 2px #132e57;
+}
+
+.education h2 {
+  color: #89C7E9;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.education h3 {
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+  color: black;
+}
+
+.education .uni {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+}
+
+.education ul {
+  padding-left: 1em;
+}
+
+.education ul li {
+  color: black;
+  font-style: italic;
+  font-weight: 200;
+}
+
+.education .school {
+  width: 50%;
+  float: left;
+  padding-top: 1em;
+}
+
+/* Work exp css */
+.work {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+  line-height: 1.75em;
+}
+
+.work h1{
+  border-bottom: solid 2px #132e57;
+}
+
+.work h2 {
+  color: #89C7E9;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.work h3 {
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+  color: black;
+}
+
+.work .ra {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+}
+
+.work ul {
+  padding-left: 1em;
+}
+
+.work ul li {
+  color: black;
+  font-style: italic;
+  font-weight: 200;
+}
+
+.work .blues {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+}
+
+/* ECA css */
+.eca {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+  line-height: 1.75em;
+}
+
+.eca h1{
+  border-bottom: solid 2px #132e57;
+}
+
+.eca h2 {
+  color: #89C7E9;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.eca h3 {
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+  color: black;
+}
+
+.eca .finance-club {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+}
+
+.eca ul {
+  padding-left: 1em;
+}
+
+.eca ul li {
+  color: black;
+  font-style: italic;
+  font-weight: 200;
+}
+
+.eca .ncf {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+}
+
+/* Skill css */
+.skill {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+  line-height: 1.75em;
+}
+
+.skill h1{
+  border-bottom: solid 2px #132e57;
+}
+
+.skill ul {
+  padding-left: 1em;
+  padding-top: 1em;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skill ul li {
+  color: black;
+  font-style: italic;
+  font-weight: 200;
+}
+
+/* References css */
+.ref {
+  text-align: left;
+  clear: both;
+  padding-top: 1em;
+  color: #132E57;
+  line-height: 1.75em;
+}
+
+.ref h1{
+  border-bottom: solid 2px #132e57;
+  font-size: 24px;
+}
+
+.ref h2 {
+  color: #89C7E9;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.ref h3 {
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+  color: black;
+}
+
+.ref .ref1 {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+  text-align: center;
+}
+.ref .ref2 {
+  width: 50%;
+  text-align: left;
+  padding-top: 1em;
+  float: left;
+  text-align: center;
+}
